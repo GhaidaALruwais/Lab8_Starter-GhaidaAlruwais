@@ -11,7 +11,7 @@ Service workers are a perfect example of graceful degradation in modern web appl
 
 This approach ensures that users always have access to the application's core features, even if some advanced functionality is temporarily unavailable due to network conditions.
 <br>
-link
+[pages link](https://ghaidaalruwais.github.io/Lab8_Starter-GhaidaAlruwais/)
 ![PWA Screenshot](pwa.png)
 
 
